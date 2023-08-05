@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.pricing{
+    margin: 50px 0;
+}
+.pricing .container .mainhead{
+    font-weight: 500;
+    font-size: 40px;
+    color: rgb(58, 58, 58);
+    margin-bottom: 50px;
+}
+.pricing .container .row .row .col-md-2 .head{
+    font-weight: 400;
+    font-size: 25px;
+}
+.pricing .container .row .row .col-md-2 .price{
+    color: rgb(113, 112, 112);
+    font-size: 20px;
+}
+.pricing .container .row .row .col-md-2 .btn{
+    margin-bottom: 20px;
+}
+.pricing .container .row .row .col-md-4{
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.pricing .container .row .row .col-md-2{
+    margin-bottom: 20px;
+}
