@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.landing{
+    margin: 100px 0;
+}
+.landing .container .row .col-md-6 .head{
+    font-weight: 600;
+    font-size: 50px;
+    color: rgb(73, 73, 73);
+}
+.landing .container .row .col-md-6 a svg{
+    text-decoration: none;
+    color: rgb(73, 73, 73);
+    margin-right: 10px;
+}
