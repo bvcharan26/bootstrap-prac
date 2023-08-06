@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.footer{
+    background-color: rgb(59, 59, 59);
+}
+.footer .container .row .col-md-4{
+    margin-top: 100px;
+    margin-bottom: 50px;
+    color: white;
+}
+.footer .container .row .col-md-4 .head{
+    font-weight: 500;
+    font-size: 20px;
+}
+.footer .container .row .col-md-4 p{
+    font-weight: 200;
+}
+.footer .container .row .col-md-4 .num{
+    margin: 20px 0;
+}
+.footer .container .row .col-md-4 .email{
+    font-weight: 400;
+}
