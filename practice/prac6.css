@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.test .container .head{
+    font-weight: 500;
+    font-size: 50px;
+    color: rgb(75,75,75);
+    margin: 50px 0;
+}
+.test .container .row .col-md-4 .word{
+    font-weight: 500;
+    color: rgb(100, 100, 100);
+    margin: 50px 0;
+}  
+.test .container .row .col-md-4 img{
+    margin-bottom: 15px;
+}
+.test .container .row .col-md-4 .person{
+    font-weight: 500;
+    color: rgb(120, 120, 120);
+    font-size: 20px;
+} 
+.test .container .row .col-md-4 .comp{
+    color: rgb(120, 120, 120);
+}
