@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.background{
+    background-image: linear-gradient(to right,rgb(127, 209, 242),rgb(55, 186, 238));
+}
+.background .form{
+    background-color: white;
+    margin: 100px 120px;
+}
+.background .form .container .row .col-md-6{
+    margin: 40px 0;
+}
+.background .form .container .row .col-md-6 .head{
+    font-weight: 700px;
+    font-size: 30px;
+    color: rgb(59,59,59);
+    margin: 0px;
+}
+.background .form .container .row .col-md-6 p{
+    font-weight: 400;
+    color: rgb(73,73,73);
+}
+.background .form .container .row .col-md-6 .input-group{
+    margin: 50px 0;
+    width: 400px;
+}
+.background .form .container .row .col-md-6 .input-group .btn{
+    color: rgb(55, 186, 238);
+    border-color: rgb(55, 186, 238);
+    width: 100px;
+}
+.background .form .container .row .col-md-6 .input-group .btn:hover{
+    color: white;
+    background-color: rgb(55, 186, 238);
+}
