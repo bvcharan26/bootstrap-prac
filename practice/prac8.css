@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.contact{
+    border-top: 5px solid rgb(0, 183, 255);
+}
+.contact .container .head{
+    font-weight: 500;
+    font-size: 40px;
+    margin: 20px 0;
+    color: rgb(61, 61, 61);
+}
+.contact .container p{
+    color: rgb(120,120,120);
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.form-control{
+    margin-bottom: 20px;
+    border-radius: 2%;
+}
