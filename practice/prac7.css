@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.team .container .head{
+    margin: 50px 0;
+    font-weight: 400;
+    font-size: 50px;
+    color: rgb(70,70,70);
+}
+.team .container .row .col-md-4 img{
+    height: 300px;
+    width: 300px;
+    margin-bottom: 30px;
+}
+.team .container .row .col-md-4 .head1{
+    font-weight: 600;
+    color: rgb(70,70,70);
+}
+.team .container .row .col-md-4 p{
+    color: rgb(70,70,70,0.6);
+}
